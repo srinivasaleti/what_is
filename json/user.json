@@ -1,0 +1,9 @@
+{
+    "name": "srinu",
+    "age": 26,
+    "address": {
+        "pincode": "543434",
+        "city": "srikakulam"
+    },
+    "cources": ["js","java"]
+}
